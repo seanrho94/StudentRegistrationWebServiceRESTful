@@ -14,3 +14,13 @@
 2. Run StudentRegistrationWebServiceResTfulApplication.java.
 3. Open your browser and go to http://localhost:8080/
 
+# Features
+- Add a student
+- Get all students
+
+# Future improvement plan
+1. Delete Student by ID
+2. Search Student
+3. Form validation
+4. Exception handling
+5. Better UI for registration form and student view table.
